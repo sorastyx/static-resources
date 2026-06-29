@@ -9,7 +9,18 @@
   ],
   "DisplayInfo": null,
   "Physics": "bisimai_4.physics3.json",
-  "Motions": {},
+  "Motions": {
+    "Idle": [
+      {
+        "File": "motions/idle.motion3.json"
+      }
+    ],
+    "TapBody": [
+      {
+        "File": "motions/touch_body.motion3.json"
+      }
+    ]
+  },
   "Expressions": []
 }
   "Groups": [
