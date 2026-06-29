@@ -1,8 +1,8 @@
 {
   "models": [
-    "bisimai_4"
+    ["bisimai_4"]
   ],
   "messages": [
-    "bisimai_4 加载成功"
+    ["bisimai_4 加载成功"]
   ]
 }
